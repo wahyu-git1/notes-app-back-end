@@ -1,0 +1,10 @@
+Nodemon 
+digunakan jika saat ada perubahan dalam proyek ini tidak perlu mengaktifkan server lagi
+
+
+ESLint
+Tools yang kedua adalah ESLint, ia dapat membantu atau membimbing Anda untuk selalu menuliskan kode JavaScript dengan gaya yang konsisten. 
+Seperti yang Anda tahu, JavaScript tidak memiliki aturan yang baku untuk gaya penulisan kode, 
+bahkan penggunaan semicolon. Karena itu, terkadang kita jadi tidak konsisten dalam menuliskannya.
+
+ESLint dapat mengevaluasi kode yang dituliskan berdasarkan aturan yang Anda terapkan.
